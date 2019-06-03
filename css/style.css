@@ -1,0 +1,43 @@
+body {
+	font-family: Arial, Verdana, Sans-Sarif;
+	font-size: 1em;
+}
+
+#wrapper {
+	width: 75%;
+	margin: 0 auto;
+	padding: 2em;
+	background-color: #ddd;
+}
+
+h1 {
+	text-align: center;
+}
+
+.bigtitle {
+    font-size: 1.8em;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.answered {
+    color: #126d00;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.unanswered {
+    color: #9b0000;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+.title {
+	font-weight: bold;
+}
+
+.entry {
+	padding: 1em;
+	margin: 1em;
+	background-color: #fff;
+}
